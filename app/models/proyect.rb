@@ -1,3 +1,3 @@
 class Proyect < ActiveRecord::Base
-	has_many :enginners
+	has_many :engineers
 end
